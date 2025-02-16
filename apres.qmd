@@ -48,11 +48,11 @@ Perguntas essencais:
 
 ::: columns
 ::: {.column width="50%"}
-![](images/speeltuin1.webp){width=60%}
+![](images/speeltuin1.webp){width=75%}
 :::
 
 ::: {.column width="50%"}
-![](images/speeltuin2.webp){width=60%}
+![](images/speeltuin2.webp){width=75%}
 :::
 :::
 
@@ -176,6 +176,7 @@ Perguntamos quantos TCCs cada um poderia avaliar.
 Uma disciplina para ingressantes na licenciatura em Física e Matemática. Cinco turmas de 50 alunos. 
 
 <a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5037026">A atividade de uma turma de 2023</a> 
+
 <a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5366593">A atividade de uma turma de 2024</a> (destaque para o processo de revisão dos retornos)
 
 
