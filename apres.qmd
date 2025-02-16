@@ -1,0 +1,120 @@
+---
+title: "Avaliação por pares: uma alternativa à provas"
+author: "Ewout ter Haar"
+institute: "Instituto de Física da USP"
+format: 
+  revealjs:
+    logo: images/pdpd.png
+    footer: 'Ewout ter Haar | ewout@usp.br | Semana Pedagógica 2025'
+    theme: [default, styles.scss]
+    width: 100%
+    margin: 0.2
+    transition: "slide"
+    transition-speed: "slow"
+---
+
+## Plano da Oficina
+
+- Introdução e levantamento das práticas
+- Apresentação do Ewout
+  1. (breves) considerações conceituais
+  1. algumas epxeriências com turmas na USP
+- Mão na massa
+  * participar de um ciclo envio/avaliar/revisar/divulgar
+
+## Avaliação, para que e como?
+
+- A indissociabilidade de ensino e avaliação
+- Avaliação "autêntica"
+
+## Avaliação, *por pares*
+
+::: columns
+::: {.column width="50%"}
+![](images/afkijken.jpg "Afkijken")
+:::
+
+::: {.column width="50%"}
+- **Não** é novo, ou "inovador"
+- **Não** é "trabalho em grupo"
+  * mas oferece oportunidades de aprendizagem parecidas
+-
+:::
+
+
+:::
+
+## Avaliação, por pares e *online*
+
+::: columns
+::: {.column width="50%"}
+- 
+
+:::
+::: {.column width="50%"}
+
+
+:::
+
+:::
+
+
+## Avaliação, por pares, online e *no Moodle*
+
+::: columns
+::: {.column width="50%"}
+
+![](images/consultacesp22-1.png)
+
+:::
+::: {.column width="50%"}
+
+![](images/consultacesp22-2.png)
+
+:::
+
+:::
+
+## Algumas experiências: consultar a turma
+
+::: columns
+::: {.column width="50%"}
+- 
+
+:::
+::: {.column width="50%"}
+
+
+:::
+
+:::
+
+## Minha prática, resumida:
+
+Meus principais palpites:
+
+::: {.incremental}
+- Comunicar
+  * expectativas sobre o envio
+  * enfatizar a inflexibilidade dos prazos
+  * enfatizar que *você* vai dar a nota final
+  * des-enfatizar a nota, enfatizar os retornos 
+- Apoio de monitores ou colegas
+  * *não* deve virar instrumento de massificação
+- (fazer um teste, sem pedir notas, só comentários)
+:::
+
+## Fim da Apresentação
+
+Discussão ou comentários?
+
+Seguimos para uma demonstração prática: se inscreva <a href="https://edisciplinas.usp.br/enrol/index.php?id=76069">aqui</a> e siga as orientações. 
+
+## Material de apoio
+
+Em ordem de legitimidade acadêmica:
+
+* <a href="https://docs.moodle.org/405/en/Workshop_activity">Documentação do Moodle sobre o Laboratório de Avaliação</a>
+* <a href="https://www.youtube.com/watch?v=D-FZzlfn9_w">Diálogo entre Prof. Dutra e eu sobre nossas experiências</a> (video de 30 min)
+* <a href="http://fep.if.usp.br/~ewout/avaliacao-por-pares-prg0002.pdf">PDF do capítulo  “Avaliação por pares em grande escala: um estudo de caso”</a>  Ewout ter Haar. 2018. Em Tecnologia e Educação: passado, presente e o que está por vir. <a href="https://www.nied.unicamp.br/biblioteca/tecnologia-e-educacao-passado-presente-e-o-que-esta-por-vir/">Download do Livro</a>.
+* Rosa, Selma dos Santos, Clara Pereira Coutinho, e Maria Assunção Flores. 2017. “Online Peer Assessment no ensino superior: uma revisão sistemática da literatura em práticas educacionais”. Avaliação: Revista da Avaliação da Educação Superior (Campinas) 22 (1): 55–83. <a href="https://doi.org/10.1590/s1414-40772017000100004">DOI</a>
