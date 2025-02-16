@@ -11,6 +11,7 @@ format:
     margin: 0.2
     transition: "slide"
     transition-speed: "slow"
+    fig-responsive: true
 ---
 
 ## Plano da Oficina
@@ -19,13 +20,42 @@ format:
 - Apresentação do Ewout
   1. (breves) considerações conceituais
   1. algumas epxeriências com turmas na USP
-- Mão na massa
+- <a href="https://edisciplinas.usp.br/enrol/index.php?id=76069">Mão na massa</a>
   * participar de um ciclo envio/avaliar/revisar/divulgar
+
+
+## Avaliação
+
+Perguntas essencais:
+
+::: {.incremental}
+#### Quem é avaliado? 
+  * A turma, um grupo, aluno individualmente, o material, o docente?
+
+#### Para qual finalidade?
+  * <span style="color:#ff9900;">**Tradicionalmente**</span>: diagnóstico, formativo, somativa
+  * <span style="color:#ff9900;">**Alternativo**</span>: monitoramento, aprendizagem, seleção
+
+#### Métodos de avaliação
+ * testes, múltipla escolha, exercícios, projetos, <span style="color:blue;">**avaliação por pares**</span>, seminários, portfólios, não avaliar (!)
+
+:::
 
 ## Avaliação, para que e como?
 
 - A indissociabilidade de ensino e avaliação
 - Avaliação "autêntica"
+
+::: columns
+::: {.column width="50%"}
+![](images/speeltuin1.webp){width=60%}
+:::
+
+::: {.column width="50%"}
+![](images/speeltuin2.webp){width=60%}
+:::
+:::
+
 
 ## Avaliação, *por pares*
 
@@ -37,22 +67,30 @@ format:
 ::: {.column width="50%"}
 - **Não** é novo, ou "inovador"
 - **Não** é "trabalho em grupo"
-  * mas oferece oportunidades de aprendizagem parecidas
--
+  * mas oferece oportunidades de aprendizagem parecidas ^[no sentido que ambos oferecem oportunidades de "troca de ideias" e debate.]
+
+
+- Aluno aprende duas vezes
+  * a primeira vez fazendo
+  * a segunda vez refletindo
 :::
-
-
 :::
 
 ## Avaliação, por pares e *online*
 
 ::: columns
-::: {.column width="50%"}
-- 
+::: {.column width="30%"}
+![](images/pares.jpg "Afkijken")
 
 :::
-::: {.column width="50%"}
+::: {.column width="70%" .incremental}
 
+0. O docente encaminhe e define critérios de avaliação
+1. Alunos enviem um arquivo digital (documento, áudio, vídeo)
+2. O sistema *aloca* N envios a cada aluno (escolha: quantos?)
+3. Alunos avaliem N envios(escolha: anônima?)
+4. Docente e monitores revisem retornos e determinam a nota final
+5. Divulgação dos retornos e notas.
 
 :::
 
@@ -60,6 +98,64 @@ format:
 
 
 ## Avaliação, por pares, online e *no Moodle*
+
+😱
+
+:::  {.column width="80%" }
+![](images/workshop.png){.lightbox}
+:::
+
+## Algumas experiências: PRG002
+
+Uma optativa graduação, trabalhar com escrita, turmas de 200-300 alunos
+
+##### Percepção e legitimidade do avaliação por pares
+
+::: columns
+![](images/legitimidade.png)
+:::
+
+
+
+## Algumas experiências: PRG002
+
+Alguns comentários:
+
+
+> Incomoda-me muito ter minha nota nessa parte da disciplina determinada por colegas. Há um grande número de alunos inscritos e, provavelmente, nem todos estarão participando com a mesma seriedade nesse momento avaliativo (Estudante anônimo).
+
+> Eu gostei do processo de avaliação por pares, mas gostaria que houvesse também uma avaliação por professor, especialmente no caso da versão final do texto. (Estudante anônimo)
+
+
+## Algumas experiências: PRG002
+
+##### Percepção sobre anonimidade
+
+::: columns
+![](images/anonimidade.png)
+:::
+
+
+## Algumas experiências: PRG002
+
+##### Percepção sobre os retornos
+
+::: columns
+![](images/retornos.png)
+:::
+
+## Algumas experiências: PRG002
+
+Um comentário:
+
+> [...] acho que os comentários dos avaliadores são essenciais, tanto quanto a avaliação objetiva. As notas dadas na avaliação devem ser justificadas por meio dos comentários, para que o autor possa entender exatamente a avaliação e aperfeiçoar o trabalho. Isso gera uma autoavaliação inclusive do próprio avaliador. Se ele dá uma nota ruim vejo que ele deva explicar o porquê, bem como se der uma nota boa saber destacar os pontos positivos e o que pode melhorar, se for o caso. - *Estudante anônimo*
+
+
+## Algumas experiências: CESP
+
+Um curso de especialização, 120 participantes, construção *cumulativa* da  TCC (em 3 etapas, com avaliação por pares)
+
+Perguntamos quantos TCCs cada um poderia avaliar. 
 
 ::: columns
 ::: {.column width="50%"}
@@ -75,40 +171,43 @@ format:
 
 :::
 
-## Algumas experiências: consultar a turma
+## Algumas experiências: Gravitação 
 
-::: columns
-::: {.column width="50%"}
-- 
+Uma disciplina para ingressantes na licenciatura em Física e Matemática. Cinco turmas de 50 alunos. 
 
-:::
-::: {.column width="50%"}
+<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5037026">A atividade de uma turma de 2023</a> 
+<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5366593">A atividade de uma turma de 2024</a> (destaque para o processo de revisão dos retornos)
 
 
-:::
 
-:::
+## Resumo da minha prática:
 
-## Minha prática, resumida:
-
-Meus principais palpites:
+Principais palpites:
 
 ::: {.incremental}
-- Comunicar
-  * expectativas sobre o envio
-  * enfatizar a inflexibilidade dos prazos
-  * enfatizar que *você* vai dar a nota final
-  * des-enfatizar a nota, enfatizar os retornos 
-- Apoio de monitores ou colegas
-  * *não* deve virar instrumento de massificação
-- (fazer um teste, sem pedir notas, só comentários)
+#### Fazer a comunicação com a turma
+
+* expectativas sobre o envio
+* enfatizar a inflexibilidade dos prazos
+* enfatizar que *você* vai dar a nota final
+* des-enfatizar a nota, enfatizar os retornos 
+
+#### Apoio de monitores ou colegas
+
+* *não* deve virar instrumento de massificação
+
+(fazer um teste, sem pedir notas, só comentários)
 :::
 
 ## Fim da Apresentação
 
-Discussão ou comentários?
+Discussão ou comentários? 🔥
 
 Seguimos para uma demonstração prática: se inscreva <a href="https://edisciplinas.usp.br/enrol/index.php?id=76069">aqui</a> e siga as orientações. 
+
+:::  {.column width="60%" }
+![](images/demo.png){.lightbox}
+:::
 
 ## Material de apoio
 
