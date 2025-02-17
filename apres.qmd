@@ -43,16 +43,18 @@ Perguntas essencais:
 
 ## Avaliação, para que e como?
 
-- A indissociabilidade de ensino e avaliação
-- Avaliação "autêntica"
-
 ::: columns
 ::: {.column width="50%"}
-![](images/speeltuin1.webp){width=75%}
+A indissociabilidade de ensino e avaliação
+
+![](images/speeltuin1.webp){width=60%}
 :::
 
 ::: {.column width="50%"}
-![](images/speeltuin2.webp){width=75%}
+
+Avaliação "autêntica"
+
+![](images/speeltuin2.webp){width=60%}
 :::
 :::
 
@@ -88,7 +90,7 @@ Perguntas essencais:
 0. O docente encaminhe e define critérios de avaliação
 1. Alunos enviem um arquivo digital (documento, áudio, vídeo)
 2. O sistema *aloca* N envios a cada aluno (escolha: quantos?)
-3. Alunos avaliem N envios(escolha: anônima?)
+3. Alunos avaliem N envios (escolha: anônima?)
 4. Docente e monitores revisem retornos e determinam a nota final
 5. Divulgação dos retornos e notas.
 
@@ -107,7 +109,7 @@ Perguntas essencais:
 
 ## Algumas experiências: PRG002
 
-Uma optativa graduação, trabalhar com escrita, turmas de 200-300 alunos
+Uma optativa na graduação, trabalhar com escrita, turmas de 200-300 alunos (2 professores, 6 monitores de pós)
 
 ##### Percepção e legitimidade do avaliação por pares
 
@@ -175,9 +177,9 @@ Perguntamos quantos TCCs cada um poderia avaliar.
 
 Uma disciplina para ingressantes na licenciatura em Física e Matemática. Cinco turmas de 50 alunos. 
 
-<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5037026">A atividade de uma turma de 2023</a> 
+<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5037026" target="_blank">A atividade de uma turma de 2023</a> 
 
-<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5366593">A atividade de uma turma de 2024</a> (destaque para o processo de revisão dos retornos)
+<a href="https://edisciplinas.usp.br/mod/workshop/view.php?id=5366593" target="_blank">A atividade de uma turma de 2024</a> (destaque para o processo de revisão dos retornos)
 
 
 
